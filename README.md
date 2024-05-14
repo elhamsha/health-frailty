@@ -4,7 +4,7 @@ This project utilizes AI to analyze and interpret complex data in order to pinpo
 These identified biomarkers have the potential to play a crucial role in predicting and addressing frailty in individuals. 
 By harnessing the power of AI, this research aims to enhance healthcare and enhance the quality of life for the elderly.
 
-The project description can be found in the 'FrailtyDetectionWithAI.pdf', while the solution is outlined in 'ASolutionForFrailtyDetectionWithAI.pdf'. Please refer to these documents for more information.
+The project description can be found in 'FrailtyDetectionWithAI.pdf', while the solution is in 'ASolutionForFrailtyDetectionWithAI.pdf'. Please refer to these documents for more information.
 
 
 
