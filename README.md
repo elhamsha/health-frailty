@@ -8,7 +8,9 @@ The project files are numbered. Please run them in order.
 📂 Frailty Detection Project
 │── 1_clinical_dataset_preprocess.ipynb # Preprocessing and normalizing the clinical dataset, saving it in clinical_dataset_corrected.csv
 │── 2_clinical_dataset_classification.ipynb # Running Classification algorithms on the clinical dataset
+
 │── 3_sensors_dataset_preprocess.ipynb # Preprocessing and normalizing the sensor dataset, saving it in sensors_dataset_corrected.csv
+
 │── 4_percentage_in_rooms.ipynb # Calculating the percentage of time each individual spent in the following rooms:
 │ # Bedroom, Bathroom, Living room, Kitchen. Saving results in percentage_in_rooms_dataset.csv
 │── 5_clustering_in_merged.ipynb # Merging 'clinical' dataset with the 'percentage of time spent in rooms' dataset and running Clustering algorithms 
