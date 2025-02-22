@@ -7,6 +7,7 @@ The project description can be found in 'FrailtyDetectionWithAI.pdf', while the 
 The project files are numbered. Please run them in order.
 
 📂 Frailty Detection Project
+
 │── 1_clinical_dataset_preprocess.ipynb # Preprocessing and normalizing the clinical dataset, saving it in clinical_dataset_corrected.csv
 
 │── 2_clinical_dataset_classification.ipynb # Running Classification algorithms on the clinical dataset
